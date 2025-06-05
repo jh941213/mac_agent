@@ -2,9 +2,9 @@
 
 AutoGen AgentChat과 Structured Output을 활용한 macOS 캘린더 자동화 에이전트입니다.
 
-** history 는 구현 안함 아직 ** 
+**history 는 구현 안함 아직** 
 
-version : 0.0.1
+`version : 0.0.1`
 
 ## 🌟 주요 기능
 
